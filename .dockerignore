@@ -5,3 +5,5 @@ Dockerfile
 README.md
 .gitignore
 .dockerignore
+Dockerfile.dev
+docker-compose.yml
